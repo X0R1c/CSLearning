@@ -185,6 +185,10 @@
   },
   "active": "70734b42267f7518",
   "lastOpenFiles": [
+    "Matemática/README.md",
+    "Física/README.md",
+    "Física",
+    "Matemática",
     "Source/Templates/latex/Pre_textual/Resumo.tex",
     "Source/Templates/latex/Pre_textual/Capa.tex",
     "Source/Templates/latex/Pre_textual/Prefacio.tex",
@@ -200,10 +204,7 @@
     "Source/Templates/latex/exemplos/Fisica3-pagina_exemplo.jpg",
     "Source/Templates/latex/exemplos/Fisica3-capa.jpg",
     "Source/Templates/latex/Capítulos/03_cap03.tex",
-    "Source/Templates/latex/Capítulos/02_cap02.tex",
     "Source/Templates/latex/exemplos/CalculoC-capa.jpg",
-    "Source/Templates/latex/Capítulos/01_cap01.tex",
-    "Source/Templates/latex/Capítulos/00_Introducao_ao_template.tex",
     "Source/Templates/latex/Imagens/ufs_horizontal_positiva.png",
     "Source/Templates/latex/Imagens/DCOMP LOGO-AZUL NOVO-01.png",
     "Source/Templates/obsidian/Generic Note.md",
@@ -229,7 +230,6 @@
     "NDA-BCC/Source/Tags/assembly.md",
     "NDA-BCC/Source/Tags/algoritmos.md",
     "NDA-BCC/README.md",
-    "NDA-BCC/PTS-BCCCAS1MA-2501-667398/1 Pesquisa.md",
-    "NDA-BCC/OAC-BCCCAS2MA-2503-001230-2503/8 Bubble Sort em Assembly.md"
+    "NDA-BCC/PTS-BCCCAS1MA-2501-667398/1 Pesquisa.md"
   ]
 }

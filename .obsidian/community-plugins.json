@@ -12,6 +12,7 @@
   "editing-toolbar",
   "obsidian-plugin-toc",
   "obsidian-file-color",
-  "obsidian-reading-time",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "obsidian-day-planner",
+  "obsidian-zotero-desktop-connector"
 ]

@@ -1,4 +1,4 @@
-// Livro: Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java
+// Fonte: Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java
 // Exercício: Faça um programa que calcule e mostre a área de um trapézio.
 // sabe-se que: A = ((base maior + base menor) * altura)/2
 

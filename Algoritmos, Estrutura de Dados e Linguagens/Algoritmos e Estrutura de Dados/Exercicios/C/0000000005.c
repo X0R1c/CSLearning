@@ -1,4 +1,4 @@
-// Livro: Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java
+// Fonte: Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java
 // Exercício: Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se
 // que este sofreu um desconto de 10%.
 

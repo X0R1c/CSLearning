@@ -1,4 +1,4 @@
-// Livro: Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java
+// Fonte: Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java
 // Exercício: Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo
 // segundo.
 

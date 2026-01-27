@@ -1,4 +1,4 @@
-// Livro: Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java
+// Fonte: Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java
 // Exercício: Faça um programa que receba o peso de uma pessoa, calcule e mostre:
 // a) o novo peso, se a pessoa engordar 15% sobre o peso digitado;
 // b) o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.

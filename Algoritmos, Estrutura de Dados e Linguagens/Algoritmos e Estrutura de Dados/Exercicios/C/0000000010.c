@@ -1,4 +1,4 @@
-// Livro: Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java
+// Fonte: Fundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java
 // Exercício: Faça um programa que calcule e mostre a área de um quadrado. sabe-se que: A = lado * lado.
 
 #include <stdio.h>

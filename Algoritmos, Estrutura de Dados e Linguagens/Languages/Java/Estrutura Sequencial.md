@@ -1,4 +1,4 @@
-## Estrutura Sequencial Java
+## Estrutura Sequencial em Java
 
 2025-12-29 19:32
 
